@@ -1,0 +1,44 @@
+E:\HospitalSystem\bin\Debug\HospitalSystem.exe.config
+E:\HospitalSystem\bin\Debug\HospitalSystem.exe
+E:\HospitalSystem\bin\Debug\HospitalSystem.pdb
+E:\HospitalSystem\bin\Debug\HospitalSystem.xml
+E:\HospitalSystem\obj\Debug\HospitalSystem.vbprojResolveAssemblyReference.cache
+E:\HospitalSystem\obj\Debug\HospitalSystem.Resources.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.vbproj.GenerateResource.Cache
+E:\HospitalSystem\obj\Debug\HospitalSystem.exe
+E:\HospitalSystem\obj\Debug\HospitalSystem.xml
+E:\HospitalSystem\obj\Debug\HospitalSystem.pdb
+E:\HospitalSystem\bin\Debug\MetroFramework.dll
+E:\HospitalSystem\bin\Debug\MetroFramework.Design.dll
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmLogin.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmMain.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmBillingManagement.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmNurseModule.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmPatientManagement.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmReportsGeneration.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmRoomManagement.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmUserManagement.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmBillingPatient.resources
+E:\HospitalSystem\obj\Debug\HospitalSystem.frmServicesProducts.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\HospitalSystem.exe.config
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.exe
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.xml
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.pdb
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\HospitalSystem.exe
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\HospitalSystem.pdb
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\HospitalSystem.xml
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\bin\Debug\MetroFramework.dll
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmBillingManagement.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmBillingPatient.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmLogin.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmMain.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmNurseModule.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmPatientManagement.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmReportsGeneration.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmRoomManagement.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmServicesProducts.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.frmUserManagement.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.Resources.resources
+C:\Users\Krizzia\Desktop\HospitalSystem - Copy\obj\Debug\HospitalSystem.vbproj.GenerateResource.Cache
